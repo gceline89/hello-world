@@ -1,2 +1,2 @@
 # hello-world
-first repositiory 
+Hi I am new to Github.
